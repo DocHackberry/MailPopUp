@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailPopUp", "MailPopUp.csproj", "{CD6AB5B4-649E-43E1-877C-1791F54B5E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CD6AB5B4-649E-43E1-877C-1791F54B5E6D}.Debug.ActiveCfg = Debug|.NET
+		{CD6AB5B4-649E-43E1-877C-1791F54B5E6D}.Debug.Build.0 = Debug|.NET
+		{CD6AB5B4-649E-43E1-877C-1791F54B5E6D}.Release.ActiveCfg = Release|.NET
+		{CD6AB5B4-649E-43E1-877C-1791F54B5E6D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
